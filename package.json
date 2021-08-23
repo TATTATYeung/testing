@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react-dom": "latest",
-    "react": "latest",
+    "antd": "latest",
     "moment": "latest",
-    "antd": "latest"
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "5.2.0"
   },
   "keywords": [],
   "name": "antd-reproduction-template-forked",
